@@ -8,7 +8,9 @@ This script works with the Realsense camera and Tensorflow models output the dep
 
 ## Files
 ``/TargetDetection/data`` -- object label map for Tensorflow model
+
 ``/TargetDetection/models`` -- trained Tensorflow model
+
 ``/scripts/`` -- source python scripts
 
 ## Example
