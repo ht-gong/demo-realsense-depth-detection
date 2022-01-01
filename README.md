@@ -36,6 +36,7 @@ Avg depth over bounding box:
 ```
 
 Depth map (from realsense app):
+
 ![Capture2](./assets/Capture2.PNG)
 
 3-D view of depth map (from realsense app):
